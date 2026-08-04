@@ -6,3 +6,4 @@ Version History
 0.0.5 - changes completion behavior to wait until user input before closing
 0.0.6 - corrected handling of negative input values
 0.0.7 - corrects bug with first input being negative
+0.0.8 - redefines functions to prepare for multi layer processing
