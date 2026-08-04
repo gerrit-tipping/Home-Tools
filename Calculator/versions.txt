@@ -4,3 +4,5 @@ Version History
 0.0.3 - adds i/o processing creating usable data
 0.0.4 - adds first operations allowing addition and subtraction
 0.0.5 - changes completion behavior to wait until user input before closing
+0.0.6 - corrected handling of negative input values
+0.0.7 - corrects bug with first input being negative
