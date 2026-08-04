@@ -1,0 +1,6 @@
+Version History
+0.0.1 - keeps window open after program executes
+0.0.2 - adds user input parameters
+0.0.3 - adds i/o processing creating usable data
+0.0.4 - adds first operations allowing addition and subtraction
+0.0.5 - changes completion behavior to wait until user input before closing
