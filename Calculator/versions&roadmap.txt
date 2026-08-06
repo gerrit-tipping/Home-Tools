@@ -9,3 +9,12 @@ Version History
 0.0.8 - redefines functions to prepare for multi layer processing
 0.1.0 - sets up tree functionality
 0.1.1 - replaces trees with input processing using operator positional precidence
+
+
+
+
+
+
+Road Map
+1.x.x - working calculator following order of operations in console
+2.x.x - gui calculator
