@@ -7,3 +7,5 @@ Version History
 0.0.6 - corrected handling of negative input values
 0.0.7 - corrects bug with first input being negative
 0.0.8 - redefines functions to prepare for multi layer processing
+0.1.0 - sets up tree functionality
+0.1.1 - replaces trees with input processing using operator positional precidence
